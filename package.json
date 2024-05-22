@@ -85,5 +85,9 @@
     "exposedModules": {
       "IBMStorageODFDetailPage": "./src/flashsystem-dashboard"
     }
+  },
+  "resolutions": {
+    "d3-color": "3.1.0"
   }
 }
+
